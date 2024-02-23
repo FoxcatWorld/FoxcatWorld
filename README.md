@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI creation
 - 📫 How to reach me foxcatworld@gmail.com 
 - 😄 Pronouns: he/they/them
-- ⚡ Fun fact: designed a bot on discord that simulate Nao Tomori :3
+- ⚡ Fun fact: designed a bot on discord that emulate Nao Tomori character and can do your home work :3
   
 
 <!---
